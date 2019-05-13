@@ -1,6 +1,6 @@
 import base64
 
-print("Idle Breakout Save Hack by Xsus")
+print("Idle Breakout Save Hack by Xsus. Made vulgar by Eggplant")
 
 print("What level ya want faggit?")
 level = input()
